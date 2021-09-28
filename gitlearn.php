@@ -11,5 +11,6 @@
     <p>Nice , yo nice</p>
     <p>username set:<br> git config --local user.name "Name Name"</p>
     <p>email set:<br> git config --local user.email "email@address.com"</p>
+    <?php echo "<h4>Do you still...</h4>"; ?>
 </body>
 </html>
