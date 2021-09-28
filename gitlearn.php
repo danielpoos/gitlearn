@@ -9,5 +9,7 @@
 <body>
     <h2>Git php  \*o*/ </h2>
     <p>Nice , yo nice</p>
+    <p>username set:<br> git config --local user.name "Name Name"</p>
+    <p>email set:<br> git config --local user.email "email@address.com"</p>
 </body>
 </html>
